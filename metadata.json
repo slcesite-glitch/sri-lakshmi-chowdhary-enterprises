@@ -1,0 +1,8 @@
+{
+  "name": "Remix Sri Lakshmi Chowdhary Enterprises - Large Home Appliances Hyderabad",
+  "description": "Authorized Large Home Appliance Showroom on RGI Airport Road, Pahadi Shareef, Hyderabad. Top brands in LED TVs, ACs, Refrigerators, Washing Machines \u0026 Dishwashers with official warranty and express local delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
